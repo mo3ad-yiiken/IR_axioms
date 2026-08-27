@@ -1,0 +1,6 @@
+data
+docs
+experiments
+ir_axioms
+tests
+trec-auto-judge

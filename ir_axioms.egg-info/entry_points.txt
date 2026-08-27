@@ -1,0 +1,4 @@
+[console_scripts]
+axioms = ir_axioms.cli:app
+ir-axioms = ir_axioms.cli:app
+ir_axioms = ir_axioms.cli:app
